@@ -7,6 +7,6 @@ def my_each(array)
   new_arr
 end
 
-  array do |element|
+  new_arr.push do |element|
     "#{element}"
 end
