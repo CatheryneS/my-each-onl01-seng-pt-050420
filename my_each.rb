@@ -6,6 +6,4 @@ def my_each(array)
 end
 array
 
-my_each(array) {|word| word}
-
 end
