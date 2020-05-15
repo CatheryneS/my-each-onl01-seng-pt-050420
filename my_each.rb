@@ -7,4 +7,4 @@ end
 array
 end
 
-my_each(words) { |word| word }
+my_each(array) {|word| word}
