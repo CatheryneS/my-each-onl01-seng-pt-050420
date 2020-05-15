@@ -3,5 +3,6 @@ def my_each(array)
   while i < array.legnth
   yield array[i]
   i += 1
-    
+end
+
 end
